@@ -1,11 +1,11 @@
-Dentista, a dor do seu paciente de bruxismo e DTM pode estar no músculo.
+Dentista, a dor do seu paciente de Bruxismo e DTM pode estar no músculo.
 
 Nos pacientes com DTM, os distúrbios musculares são o grupo de diagnóstico mais frequente, e a dor miofascial costuma enganar: o paciente sente em um lugar, mas a origem está no ponto-gatilho.
 
 O agulhamento a seco trata esse ponto diretamente, com uma agulha fina e sem injetar nenhuma substância. A literatura mostra:
 • meta-análise com 7 ensaios clínicos: melhora da dor em comparação a outras intervenções (com evidência ainda de baixa qualidade)
 • ensaio clínico randomizado: uma única sessão reduziu a dor em comparação ao agulhamento simulado
-• em pacientes com bruxismo do sono e DTM: melhora da dor, da abertura bucal e da função mandibular
+• em pacientes com Bruxismo do sono e DTM: melhora da dor, da abertura bucal e da função mandibular
 • em 7.629 sessões, nenhum evento adverso significativo
 
 Mas segurança e resultado exigem formação: anatomia, técnica e raciocínio clínico.
@@ -22,4 +22,4 @@ Durmaz N et al. Healthcare (Basel). 2026;14(14):2189.
 Blasco-Bonora PM, Martín-Pintado-Zugasti A. Acupunct Med. 2017;35(1):69-74.
 Brady S et al. J Man Manip Ther. 2014;22(3):134-40.
 
-#agulhamentoaseco #dormiofascial #dtm #bruxismo #dororofacial #pontogatilho #odontologia #dentista #odontologiabaseadaemevidencias #cursoodontologia
+#agulhamentoaseco #dormiofascial #dtm #Bruxismo #dororofacial #pontogatilho #odontologia #dentista #odontologiabaseadaemevidencias #cursoodontologia
